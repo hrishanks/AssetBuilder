@@ -1,0 +1,20 @@
+.navigation-bar {
+    display: inline-flex;
+    margin-left: 10vw;
+}
+.navigation-bar li{
+    list-style: none;
+}
+.navigation-bar li a{
+    text-decoration: none;
+    /* color:white; */
+    padding: 5vw;
+}
+body{
+    //background-color: bisque;
+    color: black;
+}
+.container img{
+    width: 40px;
+    height: 400px;
+}
